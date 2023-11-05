@@ -1,0 +1,5 @@
+Metadata-Version: 2.1
+Name: geom2d
+Version: 0.0.1
+Author-email: Estrella Sicardi <esicardi@ucm.es>
+Requires-Python: >=3.11
